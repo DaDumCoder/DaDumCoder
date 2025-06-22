@@ -19,7 +19,3 @@
 - 🧠 [intelligent](https://github.com/DaDumCoder/intelligent): Synthetic agents for simulated environments
 - 🏦 [inheritwallet](https://github.com/DaDumCoder/InheritWallet): On-chain inheritance vault with inactivity verification
 - 🕹 [games](https://github.com/DaDumCoder/games): Toybox of ideas in Unity, WebGL, and pixel hacking
-
-"""
-
-display(Markdown(readme_content))
