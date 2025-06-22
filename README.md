@@ -25,9 +25,6 @@ readme_content = """
 - 🏦 [inheritwallet](https://github.com/DaDumCoder/InheritWallet): On-chain inheritance vault with inactivity verification
 - 🕹 [games](https://github.com/DaDumCoder/games): Toybox of ideas in Unity, WebGL, and pixel hacking
 
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaDumCoder&layout=compact&theme=radical)
-
 ---
 
 🧵 **Recent Threads & Projects:**  
