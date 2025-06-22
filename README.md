@@ -4,8 +4,6 @@ from IPython.display import display, Markdown
 readme_content = """
 # 👋 Hi, I'm Draco (a.k.a DaDumCoder)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=DaDumCoder&show_icons=true&hide_border=true&theme=radical" alt="stats" width="400"/>
-
 ## 🧠 About Me
 - 🔬 Tinkering with smart contracts, agents, game logic, and AI experiments.
 - 💻 Languages: Solidity, JavaScript, TypeScript, Python.
