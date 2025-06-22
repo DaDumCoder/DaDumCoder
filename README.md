@@ -1,7 +1,4 @@
-from IPython.display import display, Markdown
 
-# Creating a GitHub profile README template
-readme_content = """
 # 👋 Hi, I'm Draco (a.k.a DaDumCoder)
 
 ## 🧠 About Me
