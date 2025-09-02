@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Draco (a.k.a DaDumCoder)
+# 👋 Hi, I'm not Dum (a.k.a DaDumCoder)
 
 ## 🧠 About Me
 - 🔬 Tinkering with smart contracts, agents, game logic, and AI experiments.
